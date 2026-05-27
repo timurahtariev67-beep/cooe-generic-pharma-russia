@@ -1,0 +1,14 @@
+# Временные файлы Office (lock-файлы при открытом документе)
+~$*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
